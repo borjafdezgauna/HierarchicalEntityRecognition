@@ -8,6 +8,9 @@ To test the models with any of the sample files:
 
 2. Run the system to predict Hierarchical Entities in one of the test files. For example:
 
+```
     cd scripts
+    
     python -m predict-her ..\models ..\samples\jobs.txt (on Windows)
     python -m predict-her ../models ../models/jobs.txt (on Linux/MacOS)
+``` 
