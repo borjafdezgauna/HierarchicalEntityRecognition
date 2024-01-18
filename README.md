@@ -1,15 +1,13 @@
 # Hierarchical Entity Recognition
 
-In this repository, we have uploaded the scripts used to preprocess the data, train and evaluate the models. We also include the models for reference and some samples that can be used to test the models.
+In this repository, we have uploaded the scripts used to preprocess the data, train and evaluate the models used for the paper "Hierarchical Entity Recognition".
 
-To preprocess the models:
+To test the models with any of the sample files:
 
-    python -m preprocess-training-data <path-to-spacy-json-files>
+1. Install spacy following the steps in <https://spacy.io/usage>
 
-To train the models:
+2. Run the system to predict Hierarchical Entities in one of the test files. For example:
 
-    python -m train-models <path-to-training-spacy-files> <path-to-test-spacy-files>
-
-To evaluate the models:
-
-    python -m evaluate-models <path-to-test-files>
+    cd scripts
+    python -m predict-her ..\models ..\samples\jobs.txt (on Windows)
+    python -m predict-her ../models ../models/jobs.txt (on Linux/MacOS)
