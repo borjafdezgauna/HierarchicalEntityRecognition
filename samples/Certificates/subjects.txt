@@ -1,0 +1,517 @@
+Nik,        FXXXXXXXXX,           Euskal          XXXXXXXXX,                                    Director  de
+
+Herriko           Unibertsitateko           Irakasle           eta     Planificación           de          Plantilla                                Docente          e
+
+Ikertzaileen           Plantillaren               Antolatzeko          Investigadora       de          la                                  Universidad   del  País
+
+Zuzendaria,                                                            Vasco - Euskal Herriko Unibertsitatea,
+
+                                                                       CERTIFICA ,
+
+HONAKO HAU ZIURTATZEN DUT
+
+                                                                       Que,   de           confomidad                                      con  la      información
+
+GAUR        sistemako   Irakaskuntza            eskaintzaren           grabada en el modulo de oferta docente del
+
+moduluan              grabatutako           informazioaren             sistema             integrado                                       GAUR,         Don/Doña
+
+arabera,    XXXXXXXXX             .  XXXXXXXXX,        con  NIF
+
+(IFZ:       XXXXXXXXX)  jaunak/andreak               Graduko,          XXXXXXXXX,          ha        impartido                                  las      siguientes
+
+Unibertsitateko         Master       Ofizialetako              eta     asignaturas         en          titulaciones                                  de     Grado,
+
+Esperientzia          Geletako     titulazioetan     irakasgai         Másteres Oficiales Universitarios y Aulas de
+
+hauek eman ditu 2003/04 ikasturtetik hona.                             la Experiencia a partir del curso 2003/04.
+
+Ikasturtea  Ikasketa-   Ikasketa-planaren                      Irakasgai-       Irakasgaiaren izena                                        Irakats            Hizkuntza
+
+            planaren    izena                                  kodea                                                                       betebeharrak
+
+            kodea                                                                                                                          (Kredituak)
+
+Curso       Código      Denominación Plan                      Código         Denominación Asignatura                                           Encargo       Idioma
+
+Académico   Plan        de Estudios                            Asignatura                                                                       Docente
+
+            Estudios                                                                                                                            (Creditos)
+
+2003/04                Sin docencia impartida
+
+                       Irakaskuntza emanik gabe
+
+2004/05     INFOR302   Ingeniería en Informática                       16287  Redes de Computadores II                                               3      Castellano
+
+                       Informatikan ingeniaria                                Konputagailu-Sarea II
+
+2004/05     ITSIS302   Ingeniería  Técnica  en    Informática  de      17156  Lenguaje Máquina                                                       16     Castellano
+
+                       Sistemas                                               Makina-Lengoaia
+
+                       Sistemen    Informatikan        ingeniari
+
+                       teknikoa
+
+2005/06     ITIET102   Ingeniería    Técnica           Industrial,     19082  Fundamentos de Informática                                             3      Castellano
+
+                       especialidad en Electrónica Industrial                 Infomatikaren oinarriak
+
+                       Industria   Elektronikan        Ingeniari
+
+                       Teknikoa
+
+2005/06     ITIFG102   Ingeniería  Técnica  en    Informática  de      18019  Metodología de la Programación                                         12     Castellano
+
+                       Gestión                                                Programazioaren Metodologia
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2005/06     ITIME102   Ingeniería    Técnica           Industrial,     19082  Fundamentos de Informática                                             6      Euskera
+
+                       especialidad en Mecánica                               Infomatikaren oinarriak
+
+                       Mekanikan ingeniari teknikoa
+
+2005/06     ITIQI102   Ingeniería    Técnica           Industrial,     19082  Fundamentos de Informática                                             6      Castellano
+
+                       especialidad en Química Industrial                     Infomatikaren oinarriak
+
+                       Industria Kimikan ingeniari teknikoa
+
+2005/06     ITTOP102   Ingeniería Técnica en Topografía                18652  Informática                                                            6      Euskera
+
+                       Topografian Ingeniari Teknikoa                         Informatika
+
+2006/07     ITIET102   Ingeniería    Técnica           Industrial,     19082  Fundamentos de Informática                                             3      Castellano
+
+                       especialidad en Electrónica Industrial                 Infomatikaren oinarriak
+
+                       Industria   Elektronikan        Ingeniari
+
+                       Teknikoa
+
+2006/07     ITIFG102   Ingeniería  Técnica  en    Informática  de      18019  Metodología de la Programación                                         12     Castellano
+
+                       Gestión                                                Programazioaren Metodologia
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2006/07     ITIFG102   Ingeniería  Técnica  en    Informática  de      18025  Estructura de Datos y Algoritmos                                       3      Castellano
+
+                       Gestión                                                Datuen Egitura eta Algoritmoak
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2006/07     ITTOP102   Ingeniería Técnica en Topografía                18652  Informática                                                            18     Euskera
+
+                       Topografian Ingeniari Teknikoa                         Informatika
+
+2007/08     ITIFG102   Ingeniería  Técnica  en    Informática  de      18019  Metodología de la Programación                                         12     Castellano
+
+                       Gestión                                                Programazioaren Metodologia
+
+                       Gestio Informatikan ingeniari teknikoa
+
+Autenticidad verificable mediante Código Seguro Verificación 9A8WP576XGXY19L3 en https://egoitza.ehu.eus/egoitza/dokumentu-egiaztatzailea
+
+                                                                                                                                                              ofdr0680
+Ikasturtea  Ikasketa-  Ikasketa-planaren                       Irakasgai-  Irakasgaiaren izena                                             Irakats        Hizkuntza
+
+            planaren   izena                                   kodea                                                                       betebeharrak
+
+            kodea                                                                                                                          (Kredituak)
+
+Curso       Código     Denominación Plan                       Código      Denominación Asignatura                                         Encargo        Idioma
+
+Académico   Plan       de Estudios                             Asignatura                                                                  Docente
+
+            Estudios                                                                                                                       (Creditos)
+
+2007/08     ITIFG102   Ingeniería   Técnica  en   Informática  de   18034  Proyecto Fin de Carrera                                                  1     Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2007/08     ITIQI102   Ingeniería    Técnica           Industrial,  19104  Proyecto Fin de Carrera                                                  ,5    Castellano
+
+                       especialidad en Química Industrial                  Karrera Amaierako Proiektua
+
+                       Industria Kimikan ingeniari teknikoa
+
+2007/08     ITTOP102   Ingeniería Técnica en Topografía             18652  Informática                                                              15    Euskera
+
+                       Topografian Ingeniari Teknikoa                      Informatika
+
+2007/08     ITTOP102   Ingeniería Técnica en Topografía             18665  Proyecto Fin de Carrera                                                  ,5    Castellano
+
+                       Topografian Ingeniari Teknikoa                      Karrera Amaierako Proiektua
+
+2008/09     ITIEL102   Ingeniería    Técnica           Industrial,  19082  Fundamentos de Informática                                               1,4   Castellano
+
+                       especialidad en Electricidad                        Infomatikaren oinarriak
+
+                       Elektrizitatean ingeniari teknikoa
+
+2008/09     ITIFG102   Ingeniería   Técnica  en   Informática  de   18019  Metodología de la Programación                                           12    Castellano
+
+                       Gestión                                             Programazioaren Metodologia
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2008/09     ITIFG102   Ingeniería   Técnica  en   Informática  de   18034  Proyecto Fin de Carrera                                                  ,5    Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2008/09     ITIQI102   Ingeniería    Técnica           Industrial,  19082  Fundamentos de Informática                                               3     Castellano
+
+                       especialidad en Química Industrial                  Infomatikaren oinarriak
+
+                       Industria Kimikan ingeniari teknikoa
+
+2008/09     ITTOP102   Ingeniería Técnica en Topografía             18652  Informática                                                              9     Euskera
+
+                       Topografian Ingeniari Teknikoa                      Informatika
+
+2009/10     ITIFG102   Ingeniería   Técnica  en   Informática  de   18019  Metodología de la Programación                                           9     Castellano
+
+                       Gestión                                             Programazioaren Metodologia
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2009/10     ITIFG102   Ingeniería   Técnica  en   Informática  de   18034  Proyecto Fin de Carrera                                                  1,5   Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2009/10     ITIME102   Ingeniería    Técnica           Industrial,  19082  Fundamentos de Informática                                               6     Castellano
+
+                       especialidad en Mecánica                            Infomatikaren oinarriak
+
+                       Mekanikan ingeniari teknikoa
+
+2009/10     ITIQI102   Ingeniería    Técnica           Industrial,  19082  Fundamentos de Informática                                               3     Castellano
+
+                       especialidad en Química Industrial                  Infomatikaren oinarriak
+
+                       Industria Kimikan ingeniari teknikoa
+
+2009/10     ITTOP102   Ingeniería Técnica en Topografía             18652  Informática                                                              9     Euskera
+
+                       Topografian Ingeniari Teknikoa                      Informatika
+
+2010/11     GGEOMA10 Grado      en  Ingeniería  en  Geomática  y    26020  Bases de Datos                                                           6     Euskera
+
+                       Topografía (en extinción)                           Datu Baseak
+
+                       Geomatikaren  eta            Topografiaren
+
+                       Ingeniaritzako Gradua (desagertzear)
+
+2010/11     GIIGSI10   Grado    en  Ingeniería    Informática  de   26013  Metodología de la Programación                                           6     Castellano
+
+                       Gestión y Sistemas de Información                   Programazioaren Metodologia
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2010/11     GMECAN10 Grado en Ingeniería Mecánica                   25977  Fundamentos de Informática                                               3     Castellano
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2010/11     GMECAN10 Grado en Ingeniería Mecánica                   25977  Fundamentos de Informática                                               4,2   Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2011/12     GGEOMA10 Grado      en  Ingeniería  en  Geomática  y    26020  Bases de Datos                                                           5,99  Euskera
+
+                       Topografía (en extinción)                           Datu Baseak
+
+                       Geomatikaren  eta            Topografiaren
+
+                       Ingeniaritzako Gradua (desagertzear)
+
+2011/12     GIIGSI10   Grado    en  Ingeniería    Informática  de   26013  Metodología de la Programación                                           5,99  Castellano
+
+                       Gestión y Sistemas de Información                   Programazioaren Metodologia
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2011/12     GMECAN10 Grado en Ingeniería Mecánica                   25977  Fundamentos de Informática                                               ,8    Castellano
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+Autenticidad verificable mediante Código Seguro Verificación 9A8WP576XGXY19L3 en https://egoitza.ehu.eus/egoitza/dokumentu-egiaztatzailea
+
+                                                                                                                                                          ofdr0680
+Ikasturtea  Ikasketa-  Ikasketa-planaren                       Irakasgai-  Irakasgaiaren izena                                             Irakats        Hizkuntza
+
+            planaren   izena                                   kodea                                                                       betebeharrak
+
+            kodea                                                                                                                          (Kredituak)
+
+Curso       Código     Denominación Plan                       Código      Denominación Asignatura                                         Encargo        Idioma
+
+Académico   Plan       de Estudios                             Asignatura                                                                  Docente
+
+            Estudios                                                                                                                       (Creditos)
+
+2011/12     GMECAN10 Grado en Ingeniería Mecánica                  25977   Fundamentos de Informática                                               5,6   Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2011/12     ITIFG102   Ingeniería   Técnica  en   Informática  de 18034    Proyecto Fin de Carrera                                                  ,5    Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2012/13     GGEOMA10 Grado      en  Ingeniería  en  Geomática  y   26020   Bases de Datos                                                           6     Euskera
+
+                       Topografía (en extinción)                           Datu Baseak
+
+                       Geomatikaren  eta            Topografiaren
+
+                       Ingeniaritzako Gradua (desagertzear)
+
+2012/13     GIIGSI10   Grado    en  Ingeniería    Informática  de 26013    Metodología de la Programación                                           1,6   Castellano
+
+                       Gestión y Sistemas de Información                   Programazioaren Metodologia
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2012/13     GIIGSI10   Grado    en  Ingeniería    Informática  de 26036    Desarrollo de Sistemas Gráficos                                          4,5   Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2012/13     GMECAN10 Grado en Ingeniería Mecánica                  25977   Fundamentos de Informática                                               4,8   Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2012/13     ITIFG102   Ingeniería   Técnica  en   Informática  de 18034    Proyecto Fin de Carrera                                                  1     Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2013/14     GGEOMA10 Grado      en  Ingeniería  en  Geomática  y   26020   Bases de Datos                                                           6     Euskera
+
+                       Topografía (en extinción)                           Datu Baseak
+
+                       Geomatikaren  eta            Topografiaren
+
+                       Ingeniaritzako Gradua (desagertzear)
+
+2013/14     GIIGSI10   Grado    en  Ingeniería    Informática  de 26036    Desarrollo de Sistemas Gráficos                                          4,5   Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2013/14     GMECAN10 Grado en Ingeniería Mecánica                  25977   Fundamentos de Informática                                               9     Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2013/14     ITIFG102   Ingeniería   Técnica  en   Informática  de 18034    Proyecto Fin de Carrera                                                  ,5    Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2014/15     GGEOMA10 Grado      en  Ingeniería  en  Geomática  y   26020   Bases de Datos                                                           6     Euskera
+
+                       Topografía (en extinción)                           Datu Baseak
+
+                       Geomatikaren  eta            Topografiaren
+
+                       Ingeniaritzako Gradua (desagertzear)
+
+2014/15     GIIGSI10   Grado    en  Ingeniería    Informática  de 26036    Desarrollo de Sistemas Gráficos                                          4,5   Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2014/15     GMECAN10 Grado en Ingeniería Mecánica                  25977   Fundamentos de Informática                                               12    Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2015/16     GGEOMA10 Grado      en  Ingeniería  en  Geomática  y   26020   Bases de Datos                                                           6     Euskera
+
+                       Topografía (en extinción)                           Datu Baseak
+
+                       Geomatikaren  eta            Topografiaren
+
+                       Ingeniaritzako Gradua (desagertzear)
+
+2015/16     GIIGSI10   Grado    en  Ingeniería    Informática  de 26036    Desarrollo de Sistemas Gráficos                                          4,5   Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2015/16     GMECAN10 Grado en Ingeniería Mecánica                  25977   Fundamentos de Informática                                               10,6  Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2015/16     ITIFG102   Ingeniería   Técnica  en   Informática  de 18034    Proyecto Fin de Carrera                                                  ,25   Castellano
+
+                       Gestión                                             Karrera Amaierako Proiektua
+
+                       Gestio Informatikan ingeniari teknikoa
+
+2016/17     GIIGSI10   Grado    en  Ingeniería    Informática  de 26036    Desarrollo de Sistemas Gráficos                                          4,5   Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+Autenticidad verificable mediante Código Seguro Verificación 9A8WP576XGXY19L3 en https://egoitza.ehu.eus/egoitza/dokumentu-egiaztatzailea
+
+                                                                                                                                                          ofdr0680
+Ikasturtea  Ikasketa-  Ikasketa-planaren                       Irakasgai-  Irakasgaiaren izena                                             Irakats       Hizkuntza
+
+            planaren   izena                                   kodea                                                                       betebeharrak
+
+            kodea                                                                                                                          (Kredituak)
+
+Curso       Código     Denominación Plan                       Código      Denominación Asignatura                                         Encargo       Idioma
+
+Académico   Plan       de Estudios                             Asignatura                                                                  Docente
+
+            Estudios                                                                                                                       (Creditos)
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2016/17     GIIGSI10   Grado  en      Ingeniería  Informática  de   26042  Trabajo Fin de Grado                                                     1,5  Castellano
+
+                       Gestión y Sistemas de Información                   Gradu-amaierako lana
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2016/17     GMECAN10   Grado en Ingeniería Mecánica                 25977  Fundamentos de Informática                                               12   Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2017/18     GIIGSI10   Grado  en      Ingeniería  Informática  de   26036  Desarrollo de Sistemas Gráficos                                          4,5  Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2017/18     GIIGSI10   Grado  en      Ingeniería  Informática  de   26042  Trabajo Fin de Grado                                                     1,5  Castellano
+
+                       Gestión y Sistemas de Información                   Gradu-amaierako lana
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2017/18     GMECAN10   Grado en Ingeniería Mecánica                 25977  Fundamentos de Informática                                               9    Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2017/18     GMECAN10   Grado en Ingeniería Mecánica                 25977  Fundamentos de Informática                                               6    Inglés
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2018/19     GIEIAU10   Grado      en  Ingeniería  Electrónica       26008  Trabajo Fin de Grado                                                     ,5   Castellano
+
+                       Industrial y Automática                             Gradu-amaierako lana
+
+                       Industria      Elektronikaren           eta
+
+                       Automatikaren Ingeniaritzako Gradua
+
+2018/19     GIIGSI10   Grado  en      Ingeniería  Informática  de   26030  Administración de Bases de Datos                                         6    Castellano
+
+                       Gestión y Sistemas de Información                   Datu Baseen Administrazioa
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2018/19     GIIGSI10   Grado  en      Ingeniería  Informática  de   26036  Desarrollo de Sistemas Gráficos                                          4,5  Castellano
+
+                       Gestión y Sistemas de Información                   Sistema Grafikoen Garapena
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2018/19     GIIGSI10   Grado  en      Ingeniería  Informática  de   26042  Trabajo Fin de Grado                                                     1    Castellano
+
+                       Gestión y Sistemas de Información                   Gradu-amaierako lana
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2018/19     GIIGSI10   Grado  en      Ingeniería  Informática  de   26042  Trabajo Fin de Grado                                                     ,5   Inglés
+
+                       Gestión y Sistemas de Información                   Gradu-amaierako lana
+
+                       Kudeaketaren eta Informazio Sistemen
+
+                       Informatikaren Ingeniaritzako Gradua
+
+2018/19     GMECAN10   Grado en Ingeniería Mecánica                 25977  Fundamentos de Informática                                               3    Euskera
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+2018/19     GMECAN10   Grado en Ingeniería Mecánica                 25977  Fundamentos de Informática                                               9    Inglés
+
+                       Ingeniaritza Mekanikoko Gradua                      Informatikaren Oinarriak
+
+Autenticidad verificable mediante Código Seguro Verificación 9A8WP576XGXY19L3 en https://egoitza.ehu.eus/egoitza/dokumentu-egiaztatzailea
+
+                                                                                                                                                         ofdr0680
+Ziurtagiri  honek  ez  dakar  berekin     nahitaez     Este     certificado  no  implica                                                       necesariamente
+
+pertsona    hori   UPV/EHUko  irakasleen          eta  que dicha persona forme o haya
+
+ikertzaileen plantillakoa izatea edo izan izana        formado    parte      de  la                                                            plantilla  docente  e
+
+(horri  buruzko    datuak  lortzeko,  jo  dagokion     investigadora de la UPV/EHU (a ese
+
+zerbitzu-orrira).                                      respecto,  consúltese                                                               la  hoja       de  servicios
+
+Eta  horrela  jasota  gera  dadin,    ziurtagiri  hau  correspondiente).
+
+egiten dut Leioan, 2019ko uztailaren 29an.             Y  para    que        conste,                                                       expido         la  presente
+
+                                                       certificación en Leioa a 29 de julio de 2019.
+
+                                      Federico Recart Barañano
+
+                   Director de Planificación de Plantilla Docente e Investigadora
+
+            UPV/EHUko Irakasle eta Ikertzaileen Plantillaren Antolatzeko Zuzendaria
+
+Autenticidad verificable mediante Código Seguro Verificación 9A8WP576XGXY19L3 en https://egoitza.ehu.eus/egoitza/dokumentu-egiaztatzailea
+
+                                                                                                                                                              ofdr0680
