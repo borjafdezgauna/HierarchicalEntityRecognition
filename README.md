@@ -1,4 +1,4 @@
-# Hierarchical Entity Recognition
+# Object Class Instance Extraction
 
 In this repository, we have uploaded the scripts used to preprocess the data, train and evaluate the models used for the paper "Object Class Instance Extraction".
 
